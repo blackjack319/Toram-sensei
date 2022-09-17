@@ -191,7 +191,7 @@ public class ToramSensei
 
             DiscordBotListAPI api = new DiscordBotListAPI.Builder()
                     .token(token)
-                    .botId("600302983305101323")
+                    .botId("1019070894682935426")
                     .build();
 
             Values.setApi(api);
