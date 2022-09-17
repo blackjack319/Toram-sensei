@@ -47,8 +47,8 @@ public class ToramSensei
 
     public static void main(String[] args)
     {
-        String token = System.getenv("DISCORD_TOKEN");
-        String prefix = System.getenv("BOT_COMMAND_PREFIX");
+        String token = System.getenv("MTAxOTA3MDg5NDY4MjkzNTQyNg.GIaiPw.jOAFVQYzt02sUrXQV75wL3MEe0IMz0VQxOcaA0");
+        String prefix = System.getenv(">");
 
         Values.setPrefix(prefix);
         System.out.println("Prefix set to: " + Values.getPrefix());
